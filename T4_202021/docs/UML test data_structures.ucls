@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="test.data_structures.TestTablaHashSeparateChaining" project="esqueleto_T0_202010" 
+    file="/esqueleto_T0_202010/test/test/data_structures/TestTablaHashSeparateChaining.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="232" width="326" x="124" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="test.data_structures.TestLinkedList" project="esqueleto_T0_202010" 
+    file="/esqueleto_T0_202010/test/test/data_structures/TestLinkedList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="172" x="490" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="test.data_structures.TestCola" project="esqueleto_T0_202010" 
+    file="/esqueleto_T0_202010/test/test/data_structures/TestCola.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="133" x="702" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="test.data_structures.TestArregloDinamico" project="esqueleto_T0_202010" 
+    file="/esqueleto_T0_202010/test/test/data_structures/TestArregloDinamico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="466" width="222" x="875" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="test.data_structures.TestTablaHashLinearProbing" project="esqueleto_T0_202010" 
+    file="/esqueleto_T0_202010/test/test/data_structures/TestTablaHashLinearProbing.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="232" width="280" x="1137" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
